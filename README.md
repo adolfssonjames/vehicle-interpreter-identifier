@@ -6,3 +6,5 @@ Jag vill göra en fordonsidentifierare, en modell gjord bland annat med en dicti
 
 Jag tänker att jag skapar en JSON fil med key value pairs. Data med olika fordon som har olika problem eller problemfria.
 Av denna data ska modellen kunna förutse och tolka vad för fordon, skada och kanske åtgärd.
+
+Jag tänker att datat kommer att innehålla boolean, string och number/integer värden.
