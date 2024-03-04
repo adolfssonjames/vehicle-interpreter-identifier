@@ -1,4 +1,4 @@
-# Veicle Interpreter / Identifier
+# Vehicle Interpreter / Identifier
 
 Jag kommer att försöka lösa ett regressionsproblem.
 
@@ -8,3 +8,9 @@ Jag tänker att jag skapar en JSON fil med key value pairs. Data med olika fordo
 Av denna data ska modellen kunna förutse och tolka vad för fordon, skada och kanske åtgärd.
 
 Jag tänker att datat kommer att innehålla boolean, string och number/integer värden.
+
+# Start
+
+Make sure to install dependencies etc:
+`pip install scikit-learn`
+`pip install numpy`
